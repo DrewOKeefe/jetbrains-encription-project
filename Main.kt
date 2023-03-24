@@ -1,6 +1,6 @@
 package encryptdecrypt
 import java.io.File
-/Users/drew.okeefe/Documents/hyperskill/Projects/Encryption-Decryption (Kotlin)/Encryption-Decryption (Kotlin)/task/src/Main.kt
+
 fun main(args: Array<String>) {
     var alg = "shift"
     var mode = "enc"
